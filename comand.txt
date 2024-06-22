@@ -1,0 +1,7 @@
+---------------  NOTIFICATION-----------------
+1. eas build:configure
+2. eas build -p android --profile <env>
+
+----------------- FIRE BASE-------------------
+1. npm install --save @react-native-firebase/app
+2 npm install @react-native-firebase/messaging

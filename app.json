@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "notification_expo",
+    "slug": "notification_expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.notification_expo",
+      "useNextNotificationsApi": true,
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "437b47f2-27b1-490d-b2de-33f9c5c72c88"
+      }
+    },
+    "owner": "shashank-btc"
+  }
+}

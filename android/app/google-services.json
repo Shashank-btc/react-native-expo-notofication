@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986994137817",
+    "project_id": "notification-expo-c7bf3",
+    "storage_bucket": "notification-expo-c7bf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986994137817:android:3aaacf92ad781ed0a17cc8",
+        "android_client_info": {
+          "package_name": "com.notification_expo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW4_iTb8lKnJ2U28spX5oCK99EW-Tge14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
